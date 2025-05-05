@@ -35,14 +35,14 @@ body {
 }
 
 
-  .grid {
+.grid {
     display: grid;
     gap: 20px;
     margin-top: 30px;
-  }
+}
 
 
-  .card {
+.card {
     background-color: #b85858;
     padding: 30px;
     text-align: center;
@@ -53,15 +53,15 @@ body {
     color: #333;
     width: 150px;
     height: 100px;
-  }
+}
 
 
-  .flex{
+.flex{
     display: flex;
-  }
+}
 
 
-  .simbolo {
+.simbolo {
     width: 80px;
     height: auto;
-  }
+}
